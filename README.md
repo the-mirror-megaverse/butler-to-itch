@@ -97,7 +97,7 @@ The step configuration looks like this:
 | doc | `doc`, `docs`, `documentation` |
 | web | `web`, `html`, `html5` |
 | android | `android`, `mobile` |
-| linux | `linux`, `unix`, `gnu` |
+| linux | `linux`, `unix`, `gnu`, 'linuxbsd' |
 | mac | `mac`, `macintosh`, `macos`, `macosx`, `osx` |
 | windows | `win`, `windows`, `xp` |
 | x32 | `x32` |
